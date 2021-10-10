@@ -1,5 +1,5 @@
-# arcade-simulation
+arcade-simulation
+=======
+Hey Everyone!
 
-Hey everyone!
-
-Himadri here, I like python and I am learning javascript. I also like k-pop.
+Himadri here, I like python and I am learning js. I also like K-pop.
